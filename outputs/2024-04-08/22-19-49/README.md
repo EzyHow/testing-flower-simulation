@@ -1,0 +1,1 @@
+# This directory contains log and results generated after running simulation without changing anything in cloned example code.
